@@ -86,4 +86,4 @@ Java-File-Backup/
 
 ## License
 
-Freeware, per the author's included `dist/README.TXT` / `dist/README.md`: distributed "as-is" with no warranty, for educational purposes. No formal license file (e.g. MIT, GPL) is included in the repository.
+Apache License 2.0
